@@ -44,9 +44,9 @@ Example :
 
 `easyConvert_CSVtoParquet.py ./mySourceFolder/ ./myTargetFolder/ myParquetTable Country,Year`
 
-Create parquet files from csv files located in mySourceFolder to myTargetFolder in folder name Table_Name.table/Table_Name.parquet/ 
+Create parquet files from csv files located in mySourceFolder to myTargetFolder in folders Table_Name.table/Table_Name.parquet/ 
 
-Create partition on fields Country and Year
+Create partitions based on fields Country and Year
 
 
 ## Context
