@@ -3,6 +3,7 @@
 A simple script to convert a list of csv files into parquet files.
 
 **Author:** Baptiste Durand
+
 **License**: MIT Licensed  
 
 Created and used for a personal project where a pre-requisite was to have a list of tables in parquet format.
